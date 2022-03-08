@@ -1,5 +1,5 @@
 greeting = "Hello"
-target = "world"
+target = "nerds"
 
 if __name__ == "__main__":
 	print(greeting + " " + target + "!")
